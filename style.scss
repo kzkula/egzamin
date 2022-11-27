@@ -1,0 +1,22 @@
+$a: #212529;
+
+.main-menu {
+    .main-menu__ul {
+        text-align: left;
+        .main-menu__ul__li {
+            display: inline-block;
+            
+            a {
+                text-decoration: none;
+                color: $a;
+                padding: 25px 15px;
+                font-size: 13px;
+                font-weight: 700;
+                letter-spacing: 1px;
+                line-height: 24px;
+                text-transform: uppercase;
+                transition: all 1s linear;
+
+                }
+            }
+        }}
