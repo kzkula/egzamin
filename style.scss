@@ -1,8 +1,12 @@
 $a: #212529;
 
+
+
 .main-menu {
+    background-color: aqua;
     .main-menu__ul {
         text-align: left;
+        background-color: aqua;
         .main-menu__ul__li {
             display: inline-block;
             
@@ -20,3 +24,8 @@ $a: #212529;
                 }
             }
         }}
+
+      
+
+       
+        
